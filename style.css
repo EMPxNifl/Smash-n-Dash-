@@ -1,0 +1,28 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  color: white;
+  background-image: url("WebBG.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+canvas {
+  margin: auto;
+  display: block;
+}
+
+h1 {
+  margin:0.5em;
+  display:block;
+  text-align: center;
+  font-size:4em;
+}
+
+p {
+  margin:1em;
+  display:block;
+  text-align: center;
+  font-size:1.5em;
+}
